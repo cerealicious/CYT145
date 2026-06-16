@@ -9,17 +9,17 @@ This course explores legal and ethical issues faced in the information technolog
 
 ## 📂 Course Modules (Interactive Links Enabled)
 
-**Tip:** Clicking these links will open the PDFs directly in a new browser tab so you can click any embedded hyperlinks inside the documents without downloading them first.*
+> 💡 **Pro-Tip:** **Ctrl + Click** (Windows) or **Cmd + Click** (Mac) these links to open them in a **New Tab**. This ensures the browser opens the raw PDF natively and keeps all embedded hyperlinks fully clickable!
 
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/00%20-%20Introduction%20to%20Legal%20and%20Ethical%20Issues%20in%20IT.pdf" target="_new">**Module 00:** Introduction to Legal and Ethical Issues in IT</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/01%20-%20Cybersecurity%20Basics.pdf" target="_new">**Module 01:** Cybersecurity Basics</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/02%20-%20Threats%20to%20Privacy%20and%20Privacy%20Protection.pdf" target="_new">**Module 02:** Threats to Privacy and Privacy Protection</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/03%20-%20International%20Jurisdiction%20and%20the%20Regulation%20of%20Cyberspace.pdf" target="_new">**Module 03:** International Jurisdiction and the Regulation of Cyberspace</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/04%20-%20Cybersecurity%20and%20Privacy%20Regulations.pdf" target="_new">**Module 04:** Cybersecurity and Privacy Regulations</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/05%20-%20Roles%20of%20Contracts%20and%20Contract%20Issues.pdf" target="_new">**Module 05:** Roles of Contracts and Contract Issues</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/06%20-%20Litigation%20Exposure%20in%20Cybersecurity.pdf" target="_new">**Module 06:** Litigation Exposure in Cybersecurity</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/07%20-%20Best%20Practices%20to%20Implement%20Prior%20to%20a%20Breach.pdf" target="_new">**Module 07:** Best Practices to Implement Prior to a Breach</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/08%20-%20Communication%20Best%20Practices%20for%20Cyber%20Incidents.pdf" target="_new">**Module 08:** Communication Best Practices for Cyber Incidents</a>
+* [**Module 00:** Introduction to Legal and Ethical Issues in IT](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/00%20-%20Introduction%20to%20Legal%20and%20Ethical%20Issues%20in%20IT.pdf)
+* [**Module 01:** Cybersecurity Basics](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/01%20-%20Cybersecurity%20Basics.pdf)
+* [**Module 02:** Threats to Privacy and Privacy Protection](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/02%20-%20Threats%20to%20Privacy%20and%20Privacy%20Protection.pdf)
+* [**Module 03:** International Jurisdiction and the Regulation of Cyberspace](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/03%20-%20International%20Jurisdiction%20and%20the%20Regulation%20of%20Cyberspace.pdf)
+* [**Module 04:** Cybersecurity and Privacy Regulations](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/04%20-%20Cybersecurity%20and%20Privacy%20Regulations.pdf)
+* [**Module 05:** Roles of Contracts and Contract Issues](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/05%20-%20Roles%20of%20Contracts%20and%20Contract%20Issues.pdf)
+* [**Module 06:** Litigation Exposure in Cybersecurity](https://github.com/cerealicious/CYT145/blob/main/Modules/06%20-%20Litigation%20Exposure%20in%20Cybersecurity.pdf)
+* [**Module 07:** Best Practices to Implement Prior to a Breach](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/07%20-%20Best%20Practices%20to%20Implement%20Prior%20to%20a%20Breach.pdf)
+* [**Module 08:** Communication Best Practices for Cyber Incidents](https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/08%20-%20Communication%20Best%20Practices%20for%20Cyber%20Incidents.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ This course explores legal and ethical issues faced in the information technolog
 ---
 
 ## ⭐ Support the Repo
-If you find these resources helpful and want to keep this repository easily accessible, please drop a **Star**! It helps your classmates find the repo faster and shows your appreciation for keeping our study materials organized. 
+If you find these resources helpful and want to keep this repository easily accessible, please drop a **Star**! It helps our classmates find the repo faster and shows your appreciation for keeping our study materials organized. 
 
 ---
 
