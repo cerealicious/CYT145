@@ -11,15 +11,15 @@ This course explores legal and ethical issues faced in the information technolog
 
 **Tip:** Clicking these links will open the PDFs directly in a new browser tab so you can click any embedded hyperlinks inside the documents without downloading them first.*
 
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/00%20-%20Introduction%20to%20Legal%20and%20Ethical%20Issues%20in%20IT.pdf" target="_blank">**Module 00:** Introduction to Legal and Ethical Issues in IT</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/01%20-%20Cybersecurity%20Basics.pdf" target="_blank">**Module 01:** Cybersecurity Basics</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/02%20-%20Threats%20to%20Privacy%20and%20Privacy%20Protection.pdf" target="_blank">**Module 02:** Threats to Privacy and Privacy Protection</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/03%20-%20International%20Jurisdiction%20and%20the%20Regulation%20of%20Cyberspace.pdf" target="_blank">**Module 03:** International Jurisdiction and the Regulation of Cyberspace</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/04%20-%20Cybersecurity%20and%20Privacy%20Regulations.pdf" target="_blank">**Module 04:** Cybersecurity and Privacy Regulations</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/05%20-%20Roles%20of%20Contracts%20and%20Contract%20Issues.pdf" target="_blank">**Module 05:** Roles of Contracts and Contract Issues</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/06%20-%20Litigation%20Exposure%20in%20Cybersecurity.pdf" target="_blank">**Module 06:** Litigation Exposure in Cybersecurity</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/07%20-%20Best%20Practices%20to%20Implement%20Prior%20to%20a%20Breach.pdf" target="_blank">**Module 07:** Best Practices to Implement Prior to a Breach</a>
-* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/08%20-%20Communication%20Best%20Practices%20for%20Cyber%20Incidents.pdf" target="_blank">**Module 08:** Communication Best Practices for Cyber Incidents</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/00%20-%20Introduction%20to%20Legal%20and%20Ethical%20Issues%20in%20IT.pdf" target="_new">**Module 00:** Introduction to Legal and Ethical Issues in IT</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/01%20-%20Cybersecurity%20Basics.pdf" target="_new">**Module 01:** Cybersecurity Basics</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/02%20-%20Threats%20to%20Privacy%20and%20Privacy%20Protection.pdf" target="_new">**Module 02:** Threats to Privacy and Privacy Protection</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/03%20-%20International%20Jurisdiction%20and%20the%20Regulation%20of%20Cyberspace.pdf" target="_new">**Module 03:** International Jurisdiction and the Regulation of Cyberspace</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/04%20-%20Cybersecurity%20and%20Privacy%20Regulations.pdf" target="_new">**Module 04:** Cybersecurity and Privacy Regulations</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/05%20-%20Roles%20of%20Contracts%20and%20Contract%20Issues.pdf" target="_new">**Module 05:** Roles of Contracts and Contract Issues</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/06%20-%20Litigation%20Exposure%20in%20Cybersecurity.pdf" target="_new">**Module 06:** Litigation Exposure in Cybersecurity</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/07%20-%20Best%20Practices%20to%20Implement%20Prior%20to%20a%20Breach.pdf" target="_new">**Module 07:** Best Practices to Implement Prior to a Breach</a>
+* <a href="https://cdn.jsdelivr.net/gh/cerealicious/CYT145@main/Modules/08%20-%20Communication%20Best%20Practices%20for%20Cyber%20Incidents.pdf" target="_new">**Module 08:** Communication Best Practices for Cyber Incidents</a>
 
 ---
 
